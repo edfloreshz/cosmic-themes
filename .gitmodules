@@ -1,0 +1,3 @@
+[submodule "cosmic-default-theme"]
+	path = cosmic-default-theme
+	url = https://github.com/edfloreshz/cosmic-default-theme
