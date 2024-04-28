@@ -1,3 +1,6 @@
 [submodule "cosmic-default-theme"]
 	path = cosmic-default-theme
 	url = https://github.com/edfloreshz/cosmic-default-theme
+[submodule "cosmic-solarized-theme"]
+	path = cosmic-solarized-theme
+	url = https://github.com/edfloreshz/cosmic-solarized-theme
